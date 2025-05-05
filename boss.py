@@ -10,7 +10,7 @@ class Boss:
     and shoots lasers. It also has a health bar.
     """
 
-    # j
+    # j hej
     def __init__(self, x, y, health_points, shoot_chance):
         """
         Initializes the Boss instance with its position. Health and shoot_chance depends on level.
